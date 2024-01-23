@@ -49,7 +49,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: weixin
+  - icon: wechat
     icon_pack: fas
     link: '/#contact'
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -70,5 +70,6 @@ highlight_name: true
 ---
 
 Hi, I'm Dezheng Bao, a Ph.D. student from [the Colledge of Computer Science and Techonology](http://www.cs.zju.edu.cn/), [Zhejiang University](www.zju.edu.cn). My advisor is [Yang Yang](yangy.org). My research interests include time series modeling, graph learning and machine learning.
-I've got my bacherlor degree of Computer Science while minoring in Finance as outstanding graduate in ZJU. **If you are interested in communicating or just chatting, please feel free to contact me via email or add me on WeChat.**
+
+I've got my bacherlor degree of Computer Science while minoring in Finance as outstanding graduate in Zhejiang University. **If you are interested in communicating or just chatting, please feel free to contact me via email or add me on WeChat.**
 {style="text-align: justify;"}
