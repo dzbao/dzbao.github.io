@@ -50,7 +50,6 @@ social:
     icon_pack: fas
     link: '/#contact'
   - icon: wechat
-    icon_pack: fas
     link: '/#contact'
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
