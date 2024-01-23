@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate of Artificial Intelligence
+role: Ph.D. candidate of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,64 +22,24 @@ organizations:
     url: https://www.zju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include time series modeling, graph nerual networks and general machine learning.
+bio: My research interests include time series modeling, graph learning and machine learning.
 
 # Interests to show in About widget
 interests:
   - Time Series
-  - Graph Nerual Network
-  - General Machine Learning
+  - Graph Learning
+  - Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: Ph.D. in Artificial Intelligence
       institution: Zhejiang University
       advisor: Yang Yang
       year: 2023 - Now
-    - course: BSc in Computer Science
+    - course: BEng in Computer Science
       institution: Zhejiang University
       year: 2019 - 2023
-
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -89,31 +49,26 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: weixin
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: '/#contact'
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=njTpYWsAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/dzbao
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  # icon_pack: ai
+  # link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm Dezheng Bao, a Ph.D. student from [the Colledge of Computer Science and Techonology](http://www.cs.zju.edu.cn/), [Zhejiang University](www.zju.edu.cn). My advisor is [Yang Yang](yangy.org). My research interests include time series modeling, graph learning and machine learning.
+I've got my bacherlor degree of Computer Science while minoring in Finance as outstanding graduate in ZJU. **If you are interested in communicating or just chatting, please feel free to contact me via email or add me on WeChat.**
 {style="text-align: justify;"}
