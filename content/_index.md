@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-01-24
 type: landing
 
 sections:
@@ -208,8 +208,8 @@ sections:
         - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '30.2586'
-        longitude: '120.1226'  
+        latitude: '30.2609'
+        longitude: '120.1179'  
       # contact_links:
       #  - icon: twitter
       #    icon_pack: fab
