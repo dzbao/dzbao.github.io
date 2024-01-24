@@ -194,10 +194,10 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        飞光，飞光，劝尔一杯酒
       # Contact (add or remove contact options as necessary)
       email: baodezheng@zju.edu.cn
-      wechat: SoonZJU
+      weixin: SoonZJU
       address:
         street: Caoguangbiao Main Building, Yuquan Campus, Zhejiang University
         city: Hangzhou
