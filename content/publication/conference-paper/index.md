@@ -41,7 +41,7 @@ summary: In this work, we propose GraphAdapter to harness the power of the LLM w
 tags: [Graph Neural Networks, Large Language Model, Text-Attributed Graph]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
