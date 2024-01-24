@@ -10,11 +10,11 @@ main:
   - name: Projects
     url: '#projects'
     weight: 20
-  - name: Gallery
-    url: '#gallery'
-    weight: 30
   - name: Publications
     url: '#publications'
+    weight: 30
+  - name: Gallery
+    url: '#gallery'
     weight: 40
   - name: Contact
     url: '#contact'
