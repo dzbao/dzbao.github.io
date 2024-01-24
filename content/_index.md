@@ -139,6 +139,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
+    id: gallery
     content:
       title: Gallery
       subtitle: ''
@@ -158,6 +159,7 @@ sections:
 #      columns: '2'
 #      view: card
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       text: |-
@@ -195,7 +197,7 @@ sections:
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: baodezheng@zju.edu.cn
-      WeChat: SoonZJU
+      wechat: SoonZJU
       address:
         street: Caoguangbiao Main Building, Yuquan Campus, Zhejiang University
         city: Hangzhou
