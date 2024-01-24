@@ -22,13 +22,13 @@ organizations:
     url: https://www.zju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include time series modeling, graph learning and machine learning.
+bio: My research interests include time series modeling, graph learning and data mining.
 
 # Interests to show in About widget
 interests:
   - Time Series
   - Graph Learning
-  - Machine Learning
+  - Data Mining
 
 # Education to show in About widget
 education:
@@ -67,7 +67,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi, I'm Dezheng Bao, a Ph.D. student from [the Colledge of Computer Science and Techonology](http://www.cs.zju.edu.cn/), [Zhejiang University](www.zju.edu.cn). My advisor is [Yang Yang](http://yangy.org). My research interests include time series modeling, graph learning and machine learning.
+Hi, I'm Dezheng Bao, a Ph.D. student from [the Colledge of Computer Science and Techonology](http://www.cs.zju.edu.cn/), [Zhejiang University](www.zju.edu.cn). My advisor is [Yang Yang](http://yangy.org). My research interests include time series modeling, graph learning and data mining.
 
 I've got my bacherlor degree of Computer Science while minoring in Finance as outstanding graduate in Zhejiang University. **If you are interested in communicating or just chatting, please feel free to contact me via email or add me on WeChat.**
 {style="text-align: justify;"}
