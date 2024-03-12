@@ -44,12 +44,14 @@ tags: [Graph Neural Networks, Large Language Model, Text-Attributed Graph]
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: PDF
+  url: https://arxiv.org/abs/2402.12984
+- name: Code
+  url: https://github.com/zjunet/GraphAdapter
 
-url_pdf: 'https://openreview.net/pdf?id=AFJYWMkVCh'
-url_code: ''
+url_pdf: 'https://arxiv.org/abs/2402.12984'
+url_code: 'https://github.com/zjunet/GraphAdapter'
 url_dataset: ''
 url_poster: ''
 url_project: ''
