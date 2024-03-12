@@ -45,11 +45,11 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: PDF
-  url: https://arxiv.org/abs/2402.12984
-- name: Code
-  url: https://github.com/zjunet/GraphAdapter
-
+- name: Yang Yang
+  url: https://yangy.org/
+- name: Xuanwen Huang
+  url: https://scholar.google.com/citations?user=JFLCWNQAAAAJ&hl=en
+  
 url_pdf: 'https://arxiv.org/abs/2402.12984'
 url_code: 'https://github.com/zjunet/GraphAdapter'
 url_dataset: ''
