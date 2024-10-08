@@ -49,7 +49,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:baodezheng@zju.edu.cn'
-  - icon: hero/sparkles
+  - icon: weixin
+    icon_pack: fas
     link: uploads/wechat.jpg
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
