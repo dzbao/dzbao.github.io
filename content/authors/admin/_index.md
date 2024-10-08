@@ -49,7 +49,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:baodezheng@zju.edu.cn'
-  - icon: "custom/wechat"
+  - icon: hero/chat-bubble-left-right
     link: uploads/wechat.jpg
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
