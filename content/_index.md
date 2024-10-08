@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2024-01-24
+date: 2024-10-08
 type: landing
 
 sections:
