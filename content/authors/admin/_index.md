@@ -8,7 +8,7 @@ last_name: Bao
 
 # Status emoji
 status:
-  icon: : crystal_ball :
+  icon: crystal_ball :
   icon_pack: emoji
 
 # Is this the primary user of the site?
