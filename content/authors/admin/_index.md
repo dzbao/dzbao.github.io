@@ -50,7 +50,7 @@ social:
     icon_pack: fas
     link: 'mailto:baodezheng@zju.edu.cn'
   - icon: weixin
-    icon_pack: fas
+    icon_pack: fab
     link: uploads/wechat.jpg
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
