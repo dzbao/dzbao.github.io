@@ -15,7 +15,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. candidate of Artificial Intelligence
+role: Ph.D. student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -23,12 +23,11 @@ organizations:
     url: https://www.zju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include large languange models applications in specific domains, graph learning and data mining.
+bio: My research interests include large languange models applications in specific domains and data mining.
 
 # Interests to show in About widget
 interests:
   - Large Language Models
-  - Graph Learning
   - Data Mining
 
 # Education to show in About widget
@@ -69,7 +68,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi, I'm Dezheng Bao, a Ph.D. student from [the College of Computer Science and Technology](http://www.cs.zju.edu.cn/), [Zhejiang University](www.zju.edu.cn). My advisor is [Yang Yang](http://yangy.org). My research interests include LLMs' applications in specific domains, graph learning and data mining.
+Hi, I'm Dezheng Bao, a Ph.D. student from [the College of Computer Science and Technology](http://www.cs.zju.edu.cn/), [Zhejiang University](www.zju.edu.cn). My advisor is [Yang Yang](http://yangy.org). My research interests include LLMs' applications in specific domains and data mining.
 
 I've got my bachelor degree of Computer Science while minoring in Finance as outstanding graduate in Zhejiang University. **If you are interested in communicating or just chatting, please feel free to contact me via email or add me on WeChat(click the icons near the avatar).**
 {style="text-align: justify;"}
