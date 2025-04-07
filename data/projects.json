@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "title": "Review System for State Grid Projects",
+      "description": "An LLM-based review system for multi-disciplinary and multi-category projects of the State Grid.",
+      "tech": ["Python", "LLM", "RAG"],
+      "image": "/images/projects/project3.jpg",
+      "link": ""
+    },
+    {
+      "title": "GNN Adapters for LLMs",
+      "description": "A novel approach to adapt Large Language Models for graph-structured data using Graph Neural Networks as adapters.",
+      "tech": ["Python", "PyTorch", "GNN", "LLM"],
+      "image": "/images/projects/gnn-adapters.jpg",
+      "link": "https://github.com/yourusername/gnn-adapters"
+    },
+    {
+      "title": "Social Network Analysis",
+      "description": "Advanced analysis of social networks using graph-based machine learning techniques.",
+      "tech": ["Python", "NetworkX", "Machine Learning", "Data Analysis"],
+      "image": "/images/projects/social-network.jpg",
+      "link": "https://github.com/yourusername/social-network"
+    }
+  ]
+} 
