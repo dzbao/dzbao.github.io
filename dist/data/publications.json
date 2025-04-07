@@ -1,0 +1,57 @@
+{
+  "publications": [
+    {
+      "title": "GNNs as Adapters for LLMs on Text-Attributed Graphs",
+      "authors": "Xuanwen Huang, Kaiqiao Han, Yang Yang, Dezheng Bao( 包德政 ), Quanjin Tao, Ziwei Chai, Qi Zhu",
+      "conference": "WWW2024",
+      "md": "WWW24_GNN_Adapter.md",
+      "tags": [
+        {
+          "type": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/abs/2402.12984",
+          "icon": "fas fa-file-pdf",
+          "color": "#ff4444",
+          "backgroundColor": "rgba(255, 0, 0, 0.1)"
+        },
+        {
+          "type": "code",
+          "label": "Code",
+          "url": "https://github.com/zjunet/GraphAdapter",
+          "icon": "fas fa-code",
+          "color": "#44ff44",
+          "backgroundColor": "rgba(0, 255, 0, 0.1)"
+        },
+        {
+          "type": "cite",
+          "label": "Cite",
+          "icon": "fas fa-quote-right",
+          "color": "#4444ff",
+          "backgroundColor": "rgba(0, 0, 255, 0.1)",
+          "modal": {
+            "title": "Citation",
+            "content": "@inproceedings{huang2024gnn,\n  title={GNNs as Adapters for LLMs on Text-Attributed Graphs},\n  author={Huang, Xuanwen and Han, Kaiqiao and Yang, Yang and Bao, Dezheng and Tao, Quanjin and Chai, Ziwei and Zhu, Qi},\n  booktitle={Proceedings of the Web Conference 2024},\n  year={2024}\n}",
+            "buttonText": "Close",
+            "buttonColor": "#64ffda"
+          }
+        },
+        {
+          "type": "co-author",
+          "label": "Xuanwen Huang",
+          "url": "https://scholar.google.com/citations?user=JFLCWNQAAAAJ",
+          "icon": "fas fa-user-friends",
+          "color": "#D4AF37",
+          "backgroundColor": "rgba(26, 26, 26, 0.1)"
+        },
+        {
+          "type": "co-author",
+          "label": "Yang Yang",
+          "url": "https://yangy.org",
+          "icon": "fas fa-user-friends",
+          "color": "#D4AF37",
+          "backgroundColor": "rgba(26, 26, 26, 0.1)"
+        }
+      ]
+    }
+  ]
+} 
