@@ -1,4 +1,4 @@
-<img src="https://weur.fig.jialiyun.fun/fig3/2025/04/07/67f3c943a9802.jpg" alt="www24_GNN_Adapter.jpg" style="zoom:40%;" />
+[<img src="https://weur.fig.jialiyun.fun/fig4/2025/05/30/68388d4d05c4d.jpg" alt="WWW24_GNN_Adapter.jpg" style="zoom:50%;" />](https://weur.fig.jialiyun.fun/fig4/2025/05/30/68388d4d05c4d.jpg)
 
 ## Abstract
 

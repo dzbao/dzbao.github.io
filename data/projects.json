@@ -1,8 +1,8 @@
 {
   "projects": [
     {
-      "title": "Review System for State Grid Projects",
-      "description": "An LLM-based review system for multi-disciplinary and multi-category projects of the State Grid.",
+      "title": "Review Dingdang: LLM-based Review System for the State Grid Projects",
+      "description": "An LLM-based review system for multi-disciplinary and multi-category projects of the State Grid of China Company, Zhejiang.",
       "tech": ["Python", "LLM", "RAG"],
       "image": "/images/projects/project3.jpg",
       "link": ""

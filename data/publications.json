@@ -1,8 +1,122 @@
 {
   "publications": [
     {
+      "title": "PD^3: A Project Duplication Detection Framework via Adapted Multi-Agent Debate",
+      "authors": "**Dezheng Bao( 包德政 )**,  Yueci Yang, Xin Chen, Zhengxuan Jiang, Zeguo Fei, Daoze Zhang, Xuanwen Huang, Junru Chen, Chutian Yu, Xiang Yuan, Yang Yang",
+      "conference": "arxiv 2025(under review)",
+      "md": "arxiv25_PD_3.md",
+      "tags": [
+        {
+          "type": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/abs/2505.17492",
+          "icon": "fas fa-file-pdf",
+          "color": "#ff4444",
+          "backgroundColor": "rgba(255, 0, 0, 0.1)"
+        },
+        {
+          "type": "cite",
+          "label": "Cite",
+          "icon": "fas fa-quote-right",
+          "color": "#4444ff",
+          "backgroundColor": "rgba(0, 0, 255, 0.1)",
+          "modal": {
+            "title": "Citation",
+            "content": "@misc{bao2025pd3projectduplicationdetection,\n title={PD$^3$: A Project Duplication Detection Framework via Adapted Multi-Agent Debate}, \n author={Dezheng Bao and Yueci Yang and Xin Chen and Zhengxuan Jiang and Zeguo Fei and Daoze Zhang and Xuanwen Huang and Junru Chen and Chutian Yu and Xiang Yuan and Yang Yang},\n year={2025},\n eprint={2505.17492},\n archivePrefix={arXiv},\n primaryClass={cs.AI},\n url={https://arxiv.org/abs/2505.17492}, \n}",
+            "buttonText": "Close",
+            "buttonColor": "#64ffda"
+          }
+        },
+        {
+          "type": "co-author",
+          "label": "Daoze Zhang",
+          "url": "https://daozezhang.github.io/",
+          "icon": "fas fa-user-friends",
+          "color": "#D4AF37",
+          "backgroundColor": "rgba(26, 26, 26, 0.1)"
+        },
+        {
+          "type": "co-author",
+          "label": "Xuanwen Huang",
+          "url": "https://scholar.google.com/citations?user=JFLCWNQAAAAJ",
+          "icon": "fas fa-user-friends",
+          "color": "#D4AF37",
+          "backgroundColor": "rgba(26, 26, 26, 0.1)"
+        },
+        {
+          "type": "co-author",
+          "label": "Junru Chen",
+          "url": "https://mrnobodycali.github.io/",
+          "icon": "fas fa-user-friends",
+          "color": "#D4AF37",
+          "backgroundColor": "rgba(26, 26, 26, 0.1)"
+        },
+        {
+          "type": "co-author",
+          "label": "Yang Yang",
+          "url": "https://yangy.org",
+          "icon": "fas fa-user-friends",
+          "color": "#D4AF37",
+          "backgroundColor": "rgba(26, 26, 26, 0.1)"
+        }
+      ]
+    },
+    {
+      "title": "Re^2: A Consistency-ensured Dataset for Full-stage Peer Review and Multi-turn Rebuttal Discussions",
+      "authors": "Daoze Zhang, Zhijian Bao, Sihang Du, Zhiyi Zhao, Kuangling Zhang, **Dezheng Bao( 包德政 )**, Yang Yang",
+      "conference": "arxiv 2025(under review)",
+      "md": "arxiv25_Re_2.md",
+      "tags": [
+        {
+          "type": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/abs/2505.07920",
+          "icon": "fas fa-file-pdf",
+          "color": "#ff4444",
+          "backgroundColor": "rgba(255, 0, 0, 0.1)"
+        },
+        {
+          "type": "code",
+          "label": "Dataset",
+          "url": "https://anonymous.4open.science/r/ReviewBench_anon/",
+          "icon": "fas fa-code",
+          "color": "#44ff44",
+          "backgroundColor": "rgba(0, 255, 0, 0.1)"
+        },
+        {
+          "type": "cite",
+          "label": "Cite",
+          "icon": "fas fa-quote-right",
+          "color": "#4444ff",
+          "backgroundColor": "rgba(0, 0, 255, 0.1)",
+          "modal": {
+            "title": "Citation",
+            "content": "@misc{zhang2025re2consistencyensureddatasetfullstage,\n title={Re$^2$: A Consistency-ensured Dataset for Full-stage Peer Review and Multi-turn Rebuttal Discussions}, \n author={Daoze Zhang and Zhijian Bao and Sihang Du and Zhiyi Zhao and Kuangling Zhang and Dezheng Bao and Yang Yang},\n year={2025},\n eprint={2505.07920},\n archivePrefix={arXiv},\n primaryClass={cs.CL},\n url={https://arxiv.org/abs/2505.07920},\n}",
+            "buttonText": "Close",
+            "buttonColor": "#64ffda"
+          }
+        },
+        {
+          "type": "co-author",
+          "label": "Daoze Zhang",
+          "url": "https://daozezhang.github.io/",
+          "icon": "fas fa-user-friends",
+          "color": "#D4AF37",
+          "backgroundColor": "rgba(26, 26, 26, 0.1)"
+        },
+        {
+          "type": "co-author",
+          "label": "Yang Yang",
+          "url": "https://yangy.org",
+          "icon": "fas fa-user-friends",
+          "color": "#D4AF37",
+          "backgroundColor": "rgba(26, 26, 26, 0.1)"
+        }
+      ]
+    },
+    {
       "title": "GNNs as Adapters for LLMs on Text-Attributed Graphs",
-      "authors": "Xuanwen Huang, Kaiqiao Han, Yang Yang, Dezheng Bao( 包德政 ), Quanjin Tao, Ziwei Chai, Qi Zhu",
+      "authors": "Xuanwen Huang, Kaiqiao Han, Yang Yang, **Dezheng Bao( 包德政 )**, Quanjin Tao, Ziwei Chai, Qi Zhu",
       "conference": "WWW2024",
       "md": "WWW24_GNN_Adapter.md",
       "tags": [
